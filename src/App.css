@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+html[data-theme='BASE'] {
+  --textColor: #3f3f3f;
+  --textColorSecondary: #6f6248;
+  --accentColorText: #bfb195;
+  --titleColor: #595141;
+  --specialColorText: #000000;
+  --imageTextColor: #ffffff;
+
+  --accentColorBg: #bfb195;
+  --articleColorBg: #faf8f4;
+  --backgroundColor: #ffffff;
+  --footerColorBg: #e4d9c3;
+  --headerColorBg: #02010100;
+
+  --socialSvgColor: #595141;
+  --btnIconColor: #818a91;
+
+  --nuvHoverStyle: #55595c;
+  --nuvDropDownHover: #494c4f;
+
+}
