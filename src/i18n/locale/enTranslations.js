@@ -14,6 +14,8 @@ const enTranslations = {
       slideFirst: {
         title: "Let's make your home cozy!",
         text: 'Our decor and gift store offers products from leading global brands, which are delightful to give and receive. We are happy to help you choose unique gifts for any occasion. You can purchase a gift in our stores or order online with delivery throughout Ukraine.',
+        buttonCatalog: 'Catalogue',
+        buttonSale: 'Discounts',
       },
 
       slideTwo: {
@@ -23,6 +25,8 @@ const enTranslations = {
       },
       slideTree: {
         text: 'Furniture plays a crucial role in interior design for various reasons. It can be the main element or even entirely define the design. Furniture determines the functionality and comfort of a space. It allows for the creation of areas for relaxation, work, storage, and other needs.',
+        btnText: "Choose furniture",
+        title: 'Furniture: Key Accent',
       },
       news: {
         titleNews: 'New products',
@@ -35,6 +39,11 @@ const enTranslations = {
           'Some things are not easily found in supermarkets. Sometimes, priority items are those you can only search for in the assortment of specialty stores. This could include home decor, various ornaments, or gifts—items that are typically sought separately.',
         postTwo:
           'At Crocus Decor, we understand that your home is an expression of your personality. That is why we offer a wide range of styles and decor options, as well as gifts. Whether you are confident in your style or seeking inspiration, we are ready to help you create an atmosphere that aligns with your vision of the perfect home.',
+      },
+      blog: {
+        title: 'Blog',
+        postOne: 'How to transform the kitchen, styles, and space organization. 25.12.23',
+        postTwo: 'Ideas for decorating the living room. 08.01.24',
       },
       findUs: {
         title: 'Where to find us?',
